@@ -2,7 +2,7 @@ import requests
 from tkinter import *
 from PIL import ImageTk,Image
 
-apiKey = '64e633162a6f402b163d49d7596fb69f'
+apiKey = 'YOURAPIKEY'
 urlRequest = 'https://api.openweathermap.org/data/2.5/weather'
 iconUrl = 'https://openweathermap.org/img/wn/{}@2x.png'
 #-273.15
